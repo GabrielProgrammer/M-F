@@ -1,0 +1,57 @@
+﻿
+Titulo: M&F
+
+
+===================================================================================================
+
+
+Descrição (Objetivo):
+
+  
+  O site terá o intuito de auxiliar a usuários serviços de manuntenção de produtos relacionados a informática (computadores, notebook,
+
+ celulares em geral), guiando-os a empresas especializadas neste tipo de serviço. Oferencendo então uma ampla escolha e ajudando-os
+ a encontrar o melhores orçamentos e lojas que demostrem qualidade.
+  Será composto por empresas que queiram divulgar seus serviços e ter um aumento em seus clientes.
+     
+===================================================================================================
+
+=======================================
+Descrição (Funcionamento):
+
+
+    No site terá um espaço para cadastro de empresas, assim como para clientes, com quesitos especiais para cada seção.
+ 	Segue abaixo o funcionamento de cada uma:
+   	--> Depois de atendidas algumas especifiações(cadastro) do usuário, o mesmo poderá desfrutar dos recursos do site, tais como:
+		. Escolha do produto para manuntenção, que será divido por categorias;
+		. Procura de empresas, por estado, região;
+		. Avaliações e comentários;
+		. Reclamações;
+		. Participar do fórum;
+		. Acesso a Ajuda, para atendimento das dúvidas;
+	    Entre outras funções.
+	--> Depois de atendidas algumas especifiações(cadastro) da empresa, a mesmo poderá desfrutar dos recursos do site, tais como:
+		. "Divulgar" a empresa e site(se houver necessidade) no site;
+		. Responder dúvidas e comentários;
+		. Participar do Forúm;
+	    Entre outras.
+========================================================================================================================================
+
+Requisitos funcionais:
+   - Cadastro de usuários;
+   - Cadastro de Empresas;
+   - Agendamento para Manuntenção dos equipamentos;
+   - Pesquisa de empresas;
+   - Descrever e avaliar;
+   - Gerar um código para cada consulta(orçamento e etc) a determinada empresa;
+   - Acesso a perfis das empresas;
+
+Requisitos não-funcionais:
+   - A linguagem do site será em HTML;
+   - Informações privadas não serão vizualizadas ao público;
+   - Comprovante de consulta;
+   - Compativél com todos navegadores;
+   - Tempo de Resposta não deverá ultrapassar 50 segundos;
+   - Banco de Dados SQL;
+   - Longin;
+   - Resquisitos de Segurança (https)
