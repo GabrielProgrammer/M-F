@@ -14,7 +14,7 @@ Descrição (Objetivo):
  a encontrar o melhores orçamentos e lojas que demostrem qualidade.
   Será composto por empresas que queiram divulgar seus serviços e ter um aumento em seus clientes.
      
-===================================================================================================
+======================================================================================================================
 
 =======================================
 Descrição (Funcionamento):
@@ -40,7 +40,7 @@ Descrição (Funcionamento):
 Requisitos funcionais:
    - Cadastro de usuários;
    - Cadastro de Empresas;
-   - Agendamento para Manuntenção dos equipamentos;
+   - Agendamento para manuntenção dos equipamentos;
    - Pesquisa de empresas;
    - Descrever e avaliar;
    - Gerar um código para cada consulta(orçamento e etc) a determinada empresa;
@@ -52,6 +52,6 @@ Requisitos não-funcionais:
    - Comprovante de consulta;
    - Compativél com todos navegadores;
    - Tempo de Resposta não deverá ultrapassar 50 segundos;
-   - Banco de Dados SQL;
-   - Longin;
+   - Banco de dados SQL;
+   - Login;
    - Resquisitos de Segurança (https)
