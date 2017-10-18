@@ -57,7 +57,7 @@ Requisitos funcionais:
    - Forúm será uma ferramenta externa;
    - Perguntas e repostas podem ser alteradas pelo admin;
    - O usuário poderá ligar para empresa;
-   - 
+   - O usuário poderá rastrear seu equipamento;
    - 
 
 Requisitos não-funcionais:
@@ -67,15 +67,11 @@ Requisitos não-funcionais:
    - Compativél com todos navegadores;
    - Tempo de Resposta não deverá ultrapassar 50 segundos;
    - Banco de dados SQL;
-   - Login;
    - Resquisitos de Segurança (https);
+   - LOGIN;
 
 
 
 
-manuntenção éumaentidade 
-Comparar o serviço pensando no frete
-serviço é um categoria
-avaliação 
-forúm externo PHP
+
 
