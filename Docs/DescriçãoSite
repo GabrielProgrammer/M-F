@@ -24,10 +24,11 @@ Descrição (Objetivo):
 Descrição (Funcionamento):
 
 
-    No site terá um espaço para cadastro de empresas, assim como para clientes, com quesitos especiais para cada seção.
+    No site terá um espaço de cadastro para empresas, assim como para clientes, com requesitos especiais para cada seção.
  	Segue abaixo o funcionamento de cada uma:
+	
    	--> Depois de atendidas algumas especifiações(cadastro) do usuário, o mesmo poderá desfrutar dos recursos do site, tais como:
-		. Escolha do produto para manuntenção, que será divido por categorias;
+		. Escolha do produto para manuntenção, que será dividido por categorias;
 		. Procura de empresas, por estado, região;
 		. Avaliações e comentários;
 		. Reclamações;
