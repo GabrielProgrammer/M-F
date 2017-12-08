@@ -51,7 +51,7 @@ Requisitos funcionais:
    - O usuário e empresa poderão participar do forúm;
    - O usuário pode avaliar a empresa;
    - o usuário poderá escolher por categorias;
-   - Forúm será uma ferramenta externa;
+   - Forúm será uma ferramenta interna;
    - Perguntas e repostas de usuários e empresas poderão ser excluídas por administradores do forúm;
    - O usuário poderá ligar para empresa;
    - O usuário poderá rastrear seu equipamento;
