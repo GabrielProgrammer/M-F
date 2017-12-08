@@ -54,7 +54,6 @@ Requisitos funcionais:
    - Forúm será uma ferramenta interna;
    - Perguntas e repostas de usuários e empresas poderão ser excluídas por administradores do forúm;
    - O usuário poderá ligar para empresa;
-   - O usuário poderá rastrear seu equipamento;
    - O usuário poderá procurar por categorias;
    - A empresa, assim como o usuário, poderão buscar por ajuda no site;
    - A empresa poderá responder dúvidas e comentários dos consumidores, seja no forúm ou no própio site;
